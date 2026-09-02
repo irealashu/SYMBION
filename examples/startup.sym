@@ -1,8 +1,11 @@
-# Startup example (SYMBION)
+Goal: build profitable startup
 
-task: evaluate_startup_idea
-input: market-research.csv
+customer feedback
+    => product improvement
+        => user retention
 
-# Steps
-- identify assumptions
-- propose experiments
+user retention
+    >> revenue growth
+
+rapid hiring
+    != operational efficiency
