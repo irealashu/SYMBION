@@ -1,0 +1,8 @@
+# Research example (SYMBION)
+
+task: plan_research_project
+input: literature-collection
+
+# Steps
+- map related work
+- design experiments

@@ -1,0 +1,9 @@
+# Climate example (SYMBION)
+
+# This is a short illustrative example placeholder
+task: analyze_climate_trends
+input: climate-dataset.csv
+
+# Steps
+- summarize trends
+- propose hypotheses

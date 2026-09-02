@@ -1,0 +1,8 @@
+# Startup example (SYMBION)
+
+task: evaluate_startup_idea
+input: market-research.csv
+
+# Steps
+- identify assumptions
+- propose experiments
