@@ -1,5 +1,36 @@
 # Vision
 
-SYMBION is a language optimized for human-AI co-thinking. The goal is to make
-thought processes explicit, composable, and machine-readable so humans and
-models can reason together more effectively.
+## The Problem
+
+Human reasoning is mostly unstructured.
+
+Natural language hides:
+- ambiguity
+- assumptions
+- confidence
+- evidence
+
+AI systems can interpret structure better than humans.
+
+Humans communicate nuance better than machines.
+
+There is no shared reasoning medium.
+
+## The Opportunity
+
+A language designed specifically for collaborative reasoning.
+
+Human ↔ SYMBION ↔ AI
+
+## Long-Term Goals
+
+- Decision making
+- Research
+- Planning
+- Scientific reasoning
+- Multi-agent collaboration
+- Knowledge graphs
+
+## End State
+
+A universal reasoning layer for intelligence.
