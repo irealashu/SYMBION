@@ -1,4 +1,15 @@
 # Semantics
 
-This document will describe the semantics of SYMBION: evaluation rules,
-scoping, typing (if any), and execution model. Placeholder for now.
+A statement represents a claim.
+
+A child statement modifies, supports,
+extends, or challenges its parent.
+
+Relationships create directional edges
+between concepts.
+
+Confidence markers apply only to the
+statement they prefix.
+
+Evidence tags apply only to the
+statement they annotate.
