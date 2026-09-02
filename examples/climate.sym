@@ -1,9 +1,11 @@
-# Climate example (SYMBION)
+Goal: mitigate climate change
 
-# This is a short illustrative example placeholder
-task: analyze_climate_trends
-input: climate-dataset.csv
+++ renewable energy @E
 
-# Steps
-- summarize trends
-- propose hypotheses
+renewable energy
+    => lower fossil fuel use
+        => lower emissions
+            => slower warming
+
+energy storage
+    >> renewable adoption
