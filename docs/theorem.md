@@ -1,4 +1,18 @@
-# Theorem and Formal Properties
+# Ambiguity Dissipation Theorem
 
-This document will collect formal properties, invariants, and theorems about
-SYMBION programs and the language design. Placeholder for now.
+Productive Thinking ∝ Explicit Assumptions / Hidden Ambiguities
+
+PT ∝ EA / HA
+
+Meaning:
+
+Reasoning quality improves when:
+
+- assumptions become visible
+- ambiguity becomes explicit
+
+Implications:
+
+- better AI collaboration
+- clearer discussions
+- faster decision making
