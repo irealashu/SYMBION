@@ -1,4 +1,37 @@
 # Syntax
 
-This document will describe the concrete syntax of SYMBION (tokens, expressions,
-statements, modules, and file layout). Placeholder for now.
+## Statements
+
+```symbion
+renewable energy
+```
+
+## Confidence
+
+```symbion
+++ strongly supported
++ likely
+~ uncertain
+- doubtful
+-- rejected
+```
+
+## Relations
+
+```symbion
+=> causes
+<= caused by
+>> enables
+<> correlates
+!= conflicts
+```
+
+## Evidence
+
+```symbion
+@E empirical
+@L logical
+@H historical
+@I intuition
+@S simulation
+```
