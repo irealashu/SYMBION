@@ -1,8 +1,12 @@
-# Research example (SYMBION)
+Goal: investigate fusion energy
 
-task: plan_research_project
-input: literature-collection
++ magnetic confinement @E
 
-# Steps
-- map related work
-- design experiments
+plasma stability
+    => reactor efficiency
+
+~ commercial viability by 2040 @S
+
+fusion
+    ? energy solution
+    ? economic solution
